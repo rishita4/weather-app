@@ -112,7 +112,7 @@ function WeatherDisplay({ threshold,setthreshold }) {
       <div className="main">
         <div className="weather-display">
           <header className="weather-header">
-            <h1>{areaName.results[0].city}</h1>
+            <h1>{areaName.results[0].timezone.name}</h1>
             <p>{currentWeatherData.current.dt}</p>
           </header>
           <div>

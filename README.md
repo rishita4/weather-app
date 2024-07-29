@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### INSTRUCTIONS FOR START UP
+
+1. Run  'npm i'  on console
+2. Run 'npm run start' . It will start the application
+
+
 
 ### `npm start`
 
